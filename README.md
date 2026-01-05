@@ -1,6 +1,6 @@
 # Hey there, I'm Arpit Dash 👋
 
-🎓 2nd Year BTech CSE Student  
+🎓 3rd Year BTech CSE Student  
 💡 Interested in AI, Game Dev, and Productivity Tools  
 ⚙️ Tech Stack: Python | C++ | HTML/CSS/JS | Java  
 🚀 Currently preparing for Trilogy Innovations Internship  
